@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Xcode / Derived
+DerivedData/
+build/
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Per-user data
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
